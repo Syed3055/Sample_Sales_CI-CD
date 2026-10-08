@@ -8,12 +8,12 @@
 # META   },
 # META   "dependencies": {
 # META     "lakehouse": {
-# META       "default_lakehouse": "397c3315-aaf8-48b6-9908-ac0c488bda76",
+# META       "default_lakehouse": "9ca0178e-590d-428d-af5f-889796eb8b87",
 # META       "default_lakehouse_name": "Lakehouse_sales",
-# META       "default_lakehouse_workspace_id": "fbad6b99-c2d5-4c99-b70a-06cd3598405c",
+# META       "default_lakehouse_workspace_id": "cb23af8e-be86-4ff2-bb2c-0a4eaa6b68a4",
 # META       "known_lakehouses": [
 # META         {
-# META           "id": "397c3315-aaf8-48b6-9908-ac0c488bda76"
+# META           "id": "9ca0178e-590d-428d-af5f-889796eb8b87"
 # META         }
 # META       ]
 # META     }
@@ -79,6 +79,7 @@ df.dtypes
 
 # CELL ********************
 
+display(df)
 
 # METADATA ********************
 
