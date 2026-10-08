@@ -79,6 +79,7 @@ df.dtypes
 
 # CELL ********************
 
+display(df)
 
 # METADATA ********************
 
