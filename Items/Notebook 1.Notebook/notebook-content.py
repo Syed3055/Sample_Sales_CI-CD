@@ -68,6 +68,17 @@ df.write.format('delta').mode('overwrite').save("Tables/short_silver/sales_dtt")
 
 # CELL ********************
 
+df.dtypes
+
+# METADATA ********************
+
+# META {
+# META   "language": "python",
+# META   "language_group": "synapse_pyspark"
+# META }
+
+# CELL ********************
+
 
 # METADATA ********************
 
